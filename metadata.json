@@ -1,0 +1,6 @@
+{
+  "name": "Aura Mariée - Gestion de Location de Robes",
+  "description": "Gestion complète de boutique de location de robes de mariée : réservations sans doublon, catalogue, clientes, contrôle de retour des robes et suivi financier en Dinar Algérien (DZD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
